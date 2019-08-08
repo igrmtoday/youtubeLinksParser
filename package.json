@@ -1,0 +1,15 @@
+{
+  "devDependencies": {},
+  "name": "yotube_parser",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "encodeurl": "^1.0.2",
+    "puppeteer": "^1.19.0",
+    "puppeteer-extra": "^2.1.3",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.1.4",
+    "puppeteer-extra-plugin-stealth": "^2.2.2",
+    "xlsx": "^0.14.3"
+  }
+}
